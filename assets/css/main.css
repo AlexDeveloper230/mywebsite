@@ -4323,21 +4323,21 @@ body.is-touch #banner {
     color: white !important;
     font-weight: bolder;
   }
-  nav a:nth-child(10) {
+  nav a:nth-child(11) {
     color: white !important;
     font-weight: bolder;
     padding-top: 3px;
   }
-  nav a:nth-child(19) {
+  nav a:nth-child(21) {
     color: white !important;
     font-weight: bolder;
   }
-  nav a:nth-child(20) {
+  nav a:nth-child(22) {
     color: white !important;
     font-weight: bolder;
   }
 
-  nav a:nth-child(17) {
+  nav a:nth-child(18) {
     line-height: 27px !important;
   }
 }
